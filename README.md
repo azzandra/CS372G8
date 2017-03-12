@@ -17,3 +17,5 @@ Code will be added in here through various java files that will be uploaded.
 Storage will consist of using Github, Google Drive, and our own personal hard drives along with the D2L platform provided.
 
 Other task management will be facilitated through JIRA...
+
+Further scheduling of projects and management will be facilitated through Freedcamp
